@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: check-1.0.0-setup.exe
+    sha512: RxuPrtebtwarr2zCZWUI+k3kICgbSB9tLT0Hjxk407Fjm1eJMMwSkgzfzfOscgnLyovNs3zlVzV7ysxr61ipXA==
+    size: 78674162
+path: check-1.0.0-setup.exe
+sha512: RxuPrtebtwarr2zCZWUI+k3kICgbSB9tLT0Hjxk407Fjm1eJMMwSkgzfzfOscgnLyovNs3zlVzV7ysxr61ipXA==
+releaseDate: '2024-08-13T11:54:15.147Z'
